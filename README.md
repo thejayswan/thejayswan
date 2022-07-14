@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thejayswan
-- 👀 I’m interested in learning about Full Stack Development and Data Analysis.
+- 👋 Hi, I’m Jay Swan.
+- 👀 I’m interested in learning about Full Stack Development and a variety of aspects of Data Science -- especially visualizations.
 - 🌱 I’m currently learning Front End Development with Codecademy and varies books.
-- 💞️ I’m looking to collaborate on pretty much anything.  I have a variety of basic skills at a basic level -- working on fixing that latter bit.
+- 💞️ I’m looking to collaborate on pretty much anything that time will allow.
 - 📫 How to reach me ... on Twitter @thejayswan
 
 <!---
